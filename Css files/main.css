@@ -4,6 +4,10 @@
 
 body{
 	background-color: #D07070;
+	display: flex;
+	flex-wrap: wrap;
+	justify-contant: center;
+	align-items: center;
 }
 
 #wrapper {
